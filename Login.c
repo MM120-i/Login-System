@@ -3,6 +3,7 @@
 #include <conio.h>
 #include <stdio.h>
 #include <string.h>
+#include "Login.h"
 
 #define ENTER 13
 #define TAB 9
